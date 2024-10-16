@@ -1,0 +1,14 @@
+langchain
+langchain-openai
+langchain-google-genai
+google-generativeai
+#chromadb
+#sentence-transformers
+#huggingface-hub
+#tiktoken
+python-dotenv
+langchain_community
+streamlit
+PyPDF2
+faiss-cpu
+dateparser

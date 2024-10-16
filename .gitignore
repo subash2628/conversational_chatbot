@@ -1,0 +1,16 @@
+.env
+chatbotFull
+__pycache__
+faiss_index
+current_with_tools_claude.py
+current_with_tools.py
+extended_from_working_code.py
+main.py
+misteral_original.py
+mistral_generated.py
+nepal.txt
+readthis.pdf
+readthis.txt
+rough.txt
+Dockerfile
+current.py
